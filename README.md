@@ -1,1 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/YmApcLfC)
+RC18_23149852
+
+This repository includes：
+1. U_net code for land segmentation, for optimizing the placement of the swimming pool
+2. Pix2pix code for predict possible road network for design the plan of the swimming pool
+3. part of the datasets for training models
